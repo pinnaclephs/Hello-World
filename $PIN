@@ -4,7 +4,7 @@ npm install -g ethereumjs-testrpc
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.7.6;
 
-https://eth-mainnet.alchemyapi.io/v2/SsNMRaq0mraMpm3ejguk5k75uoZ26sGP
+https://eth-ropsten.alchemyapi.io/v2/SsNMRaq0mraMpm3ejguk5k75uoZ26sGP
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.0.0/contracts/token/ERC20/ERC20.sol";
 
